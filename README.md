@@ -1,6 +1,6 @@
-### Hi there, I'm Bryan Herdianto 👋
+# Hi there, I'm Bryan Herdianto 👋
 
-# I'm currently an undergraduate at the University of Indonesia
+### I'm currently an undergraduate at the University of Indonesia
 
 - 🔭 I’m currently working on computer science projects
 - 🌱 I’m currently learning computer engineering

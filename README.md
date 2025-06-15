@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bryan Herdianto</h1>
 <h3 align="center">Passionate About AI, Data Science, and Web Development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bryanherdianto&label=Profile%20views&color=0e75b6&style=flat-square" alt="bryanherdianto" /> </p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=bryanherdianto&label=Profile%20views&color=0e75b6&style=flat-square" alt="bryanherdianto" /></p>
 
-- 🌱 I’m currently learning **tensorflow, docker, and opencv**
+- 🌱 I’m currently learning **Tensorflow, Docker, and OpenCV**
 
-- 💬 Ask me about **python, pandas, and sql**
+- 💬 Ask me about **Python, Pandas, and SQL**
 
 - 📫 How to reach me **bryan.herdianto17@gmail.com**
 

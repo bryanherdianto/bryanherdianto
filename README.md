@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bryan Herdianto</h1>
-<h3 align="center">Yey, more data!</h3>
+<h3 align="center">Passionate About AI, Data Science, and Web Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bryanherdianto&label=Profile%20views&color=0e75b6&style=flat-square" alt="bryanherdianto" /> </p>
 
@@ -9,14 +9,12 @@
 
 - 📫 How to reach me **bryan.herdianto17@gmail.com**
 
-- ⚡ Fun fact **I'm still learning**
+- ⚡ Fun fact **Still learning—but getting better every commit!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bryanherdianto" target="blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bryanherdianto" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/breddtest" target="blank" rel="noreferrer"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="breddtest" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/breddtest" target="blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="breddtest" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/breddtest" target="blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="breddtest" height="30" width="30" /></a>
 <a href="https://www.leetcode.com/breddtest" target="blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="breddtest" height="30" width="40" /></a>
 <a href="https://www.freecodecamp.org/breddtest" target="blank" rel="noreferrer"><img align="center" src="https://design-style-guide.freecodecamp.org/downloads/fcc_primary_small.jpg" alt="breddtest" height="30" width="40" /></a>
 <a href="https://www.datacamp.com/portfolio/bryanherdianto" target="blank" rel="noreferrer"><img align="center" src="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/hq30ze9287y9ztkmcdhy" alt="bryanherdianto" height="30" width="30" /></a>

@@ -19,7 +19,7 @@
 <a href="https://www.freecodecamp.org/breddtest" target="blank" rel="noreferrer"><img align="center" src="https://design-style-guide.freecodecamp.org/downloads/fcc_primary_small.jpg" alt="breddtest" height="30" width="40" /></a>
 <a href="https://www.datacamp.com/portfolio/bryanherdianto" target="blank" rel="noreferrer"><img align="center" src="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/hq30ze9287y9ztkmcdhy" alt="bryanherdianto" height="30" width="30" /></a>
 <a href="https://www.dicoding.com/users/bryanherdianto/academies" target="blank" rel="noreferrer"><img align="center" src="https://yt3.ggpht.com/a-/AN66SAxduc7UZqTVgU0IxluPFRLA0Nhn_SWR7tis8g=s900-mo-c-c0xffffffff-rj-k-no" alt="bryanherdianto" height="30" width="30" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/bryanherdianto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/bryanherdianto" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/bryanherdianto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/bryanherdianto" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

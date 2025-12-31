@@ -1,9 +1,5 @@
 <h1 align="center">Hi, I'm Bryan Herdianto 👋</h1>
 <h3 align="center">Aspiring Data & Machine Learning Engineer</h3>
-<h4 align="center">
-Building data-driven systems, ML pipelines, and practical AI solutions
-</h4>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bryanherdianto&label=Profile%20views&color=0e75b6&style=flat-square" alt="bryanherdianto" />
 </p>
@@ -13,8 +9,7 @@ Building data-driven systems, ML pipelines, and practical AI solutions
 - 🧠 Strong foundation in **Python, Pandas, SQL, and data analytics**
 - 🔧 Interested in **end-to-end ML workflows**: data processing → modeling → evaluation → deployment
 - ⚡ Learning by building — improving one commit at a time
-
-📫 **Reach me at:** `bryan.herdianto17@gmail.com`
+- 📫 **Reach me at:** `bryan.herdianto17@gmail.com`
 
 ### 🤝 Connect with Me
 <p align="left">
@@ -37,6 +32,7 @@ Building data-driven systems, ML pipelines, and practical AI solutions
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
 </p>
 
+<br>
 <p align="center">
   <img src="https://github-readme-streak-stats-two-smoky.vercel.app?user=bryanherdianto" alt="bryanherdianto" />
 </p>

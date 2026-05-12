@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Bryan Herdianto 👋</h1>
-<h3 align="center">Aspiring Data & Machine Learning Engineer</h3>
+<h1 align="center">Hi, I'm Bryan 👋</h1>
+<h3 align="center">Aspiring Data & ML Engineer</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bryanherdianto&label=Profile%20views&color=0e75b6&style=flat-square" alt="bryanherdianto" />
 </p>
